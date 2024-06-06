@@ -1,0 +1,26 @@
+
+body{
+    background-color: burlywood;
+    /* space from body to the edges of the web page */
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   text-align: left;
+}
+h1{
+    padding-left: 10px;
+}
+
+h2{
+    background-color: wheat;
+    color: burlywood;
+    /* amount of space from other entintys around h2 */
+    padding: 20px;
+    text-align: center;
+}
+
+p{
+    color: black;
+    font-size: medium;
+    /*  amount space from left side of the the web page */
+    padding-left: 10px;
+}
