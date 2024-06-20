@@ -1,0 +1,60 @@
+
+body{
+    margin: 0;
+   background-image: url(Cybertron.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    height: 100vh;
+}
+
+
+main{
+    grid-row: 3;
+ position: fixed;
+ left: 0;
+ bottom: 0;
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 300px;
+}
+
+header{
+    color: whitesmoke;
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    position: top;
+    grid-row: 2;
+    padding: 20px;
+    
+}
+
+h2{
+color: white;
+
+}
+
+p{
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: large;
+    background-color: black;
+    
+}
+
+aside{
+    position: fixed;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 30%;
+    padding-top: 150px;
+    padding-left: 20px;
+    background-color: black;
+   
+}
