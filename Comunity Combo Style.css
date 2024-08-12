@@ -1,0 +1,38 @@
+header{
+    background-image: url(Beycharateras.png);
+    background-size: auto;
+    background-position-y: -100px;
+    padding: 30px;
+    margin: 0;
+    text-align: center;
+    text-shadow: 0 0 10px rgb(4, 66, 4), 0 0 20px rgb(61, 59, 11), 0 0 30px rgb(73, 2, 73);
+    color: rgb(255, 255, 255);
+}
+
+body{
+    
+    background-image: linear-gradient(to right, yellow,darkred, darkblue, black);
+    background-repeat: no-repeat;
+    background-size: cover;
+  background-attachment: fixed;
+    
+}
+
+h2{
+    text-align: center;
+    border: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}
+
+aside{
+    text-align: right;
+}
+a{
+    color: brown;
+}
